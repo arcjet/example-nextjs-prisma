@@ -14,7 +14,7 @@ export function SiteHeader() {
         <div className="flex flex-1 items-center justify-end space-x-4">
           <nav className="flex items-center space-x-1">
             <Link
-              href="https://github.com/arcjet/example-dynamic-rate-limit"
+              href="https://github.com/arcjet/example-nextjs-prisma"
               target="_blank"
               rel="noreferrer"
             >

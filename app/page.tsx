@@ -32,7 +32,7 @@ export default async function IndexPage() {
         This application shows a dynamic rate limit based on the user. The code
         is{" "}
         <Link
-          href="https://github.com/arcjet/example-dynamic-rate-limit"
+          href="https://github.com/arcjet/example-nextjs-prisma"
           target="_blank"
           rel="noreferrer"
           className="font-bold decoration-1 underline-offset-2 hover:underline"

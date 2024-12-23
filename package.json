@@ -1,15 +1,15 @@
 {
-  "name": "example-dynamic-rate-limit",
+  "name": "example-nextjs-prisma",
   "description": "Arcjet dynamic rate limit example. Arcjet helps developers protect their apps in just a few lines of code.",
   "license": "Apache-2.0",
   "homepage": "https://arcjet.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arcjet/example-dynamic-rate-limit.git",
+    "url": "git+https://github.com/arcjet/example-nextjs-prisma.git",
     "directory": "arcjet"
   },
   "bugs": {
-    "url": "https://github.com/arcjet/example-dynamic-rate-limit/issues",
+    "url": "https://github.com/arcjet/example-nextjs-prisma/issues",
     "email": "support@arcjet.com"
   },
   "author": {
@@ -28,40 +28,40 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@arcjet/decorate": "^1.0.0-alpha.27",
+    "@arcjet/decorate": "^1.0.0-alpha.34",
     "@arcjet/next": "^1.0.0-alpha.34",
-    "@auth/prisma-adapter": "^2.7.3",
-    "@hookform/resolvers": "^3.9.0",
-    "@prisma/client": "^5.20.0",
-    "@radix-ui/react-label": "^2.1.0",
-    "@radix-ui/react-slot": "^1.1.0",
-    "class-variance-authority": "^0.7.0",
+    "@auth/prisma-adapter": "^2.7.4",
+    "@hookform/resolvers": "^3.9.1",
+    "@prisma/client": "^6.1.0",
+    "@radix-ui/react-label": "^2.1.1",
+    "@radix-ui/react-slot": "^1.1.1",
+    "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "lucide-react": "0.453.0",
-    "next": "^14.2.15",
+    "lucide-react": "0.469.0",
+    "next": "^14.2.21",
     "next-auth": "^5.0.0-beta.25",
-    "next-themes": "^0.3.0",
+    "next-themes": "^0.4.4",
     "react": "^18",
     "react-dom": "^18",
-    "react-hook-form": "^7.53.0",
-    "tailwind-merge": "^2.5.4",
+    "react-hook-form": "^7.54.2",
+    "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
-    "zod": "^3.23"
+    "zod": "^3.24.1"
   },
   "devDependencies": {
     "@types/node": "^22",
     "@types/react": "18.3.12",
     "@types/react-dom": "^18",
-    "@typescript-eslint/parser": "^8.14.0",
+    "@typescript-eslint/parser": "^8.18.1",
     "autoprefixer": "^10.4.20",
     "eslint": "8",
-    "eslint-config-next": "14.2.15",
+    "eslint-config-next": "14.2.21",
     "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-react": "^7.37.1",
+    "eslint-plugin-react": "^7.37.2",
     "eslint-plugin-tailwindcss": "^3.17.5",
     "postcss": "^8",
-    "prisma": "^5.20.0",
-    "tailwindcss": "^3.4.14",
+    "prisma": "^6.1.0",
+    "tailwindcss": "^3.4.17",
     "typescript": "^5"
   }
 }
