@@ -28,7 +28,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@arcjet/decorate": "^1.0.0-alpha.34",
+    "@arcjet/decorate": "^1.0.0-beta.3",
     "@arcjet/next": "^1.0.0-alpha.34",
     "@auth/prisma-adapter": "^2.7.4",
     "@hookform/resolvers": "^3.9.1",
