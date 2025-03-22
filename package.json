@@ -31,7 +31,7 @@
     "@arcjet/decorate": "^1.0.0-beta.4",
     "@arcjet/next": "^1.0.0-beta.4",
     "@auth/prisma-adapter": "^2.8.0",
-    "@hookform/resolvers": "^3.9.1",
+    "@hookform/resolvers": "^4.1.3",
     "@prisma/client": "^6.5.0",
     "@radix-ui/react-label": "^2.1.2",
     "@radix-ui/react-slot": "^1.1.2",
