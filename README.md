@@ -1,3 +1,8 @@
+> [!WARNING]
+>
+> **This example is no longer maintained.**  
+> We recommend checking out our actively maintained [example-nextjs](https://github.com/arcjet/example-nextjs) example app instead, or exploring the [fingerprints rate limiting example in our documentation](https://docs.arcjet.com/fingerprints#ip-address--user-id).
+
 <a href="https://arcjet.com" target="_arcjet-home">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://arcjet.com/logo/arcjet-dark-lockup-voyage-horizontal.svg">
